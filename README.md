@@ -1,13 +1,4 @@
-# Sample Hardhat Project
+# Hardhat project to deploy an ERC20 Token Smart contract to Fuse Network
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project was made as a demonstration on how to use Hardhat and Openzeppelin to deploy an ERC20 Token smart contract on the Fuse Network.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
